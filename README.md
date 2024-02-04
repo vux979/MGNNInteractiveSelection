@@ -1,0 +1,2 @@
+# MGNNInteractiveSelection
+RS
